@@ -1,10 +1,10 @@
-# 🛍️ Power BI Fashion Sales Insights
+#  Power BI Fashion Sales Insights
 
 Interactive Power BI dashboard analysing real e-commerce fashion sales data using DAX and business KPIs.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an **interactive Power BI dashboard** built using real-world e-commerce sales data.  
 All sensitive and confidential information has been removed to maintain data privacy.
 
@@ -12,7 +12,7 @@ The goal of this project is to transform raw sales data into **meaningful busine
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 Understand sales performance across multiple e-commerce platforms and identify opportunities to improve:
 - Revenue growth
 - Marketing strategy
@@ -21,7 +21,7 @@ Understand sales performance across multiple e-commerce platforms and identify o
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 The dataset contains order-level data from multiple e-commerce platforms including:
 - Amazon
 - Flipkart
@@ -40,7 +40,7 @@ It includes information about:
 
 ---
 
-## 🧰 Tools & Technologies Used
+##  Tools & Technologies Used
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
 - **Microsoft Excel (Data Cleaning)**
@@ -49,7 +49,7 @@ It includes information about:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### 🔹 Sales Performance Analysis
 - Total revenue generated in 2023
@@ -82,7 +82,7 @@ Breakdown of orders by:
 
 ---
 
-## 📈 Key KPIs Created Using DAX
+##  Key KPIs Created Using DAX
 Some of the key DAX measures created in this project include:
 - Total Revenue
 - Total Orders
@@ -95,7 +95,7 @@ Some of the key DAX measures created in this project include:
 
 ---
 
-## 🎨 Dashboard Highlights
+##  Dashboard Highlights
 - Interactive slicers and filters
 - Dynamic KPIs and cards
 - Drill-down analysis
@@ -103,7 +103,7 @@ Some of the key DAX measures created in this project include:
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 - Writing DAX measures and KPIs
 - Designing interactive dashboards
 - Turning raw data into storytelling visuals
@@ -111,14 +111,14 @@ Some of the key DAX measures created in this project include:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Add forecasting and trend prediction
 - Connect dashboard to live database
 - Add advanced customer segmentation
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Shivansh Awasthi**  
 Aspiring Data Analyst
 
